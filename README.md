@@ -1,4 +1,4 @@
-#Practica Web desde cero
+# Practica Web desde cero
 
 Practica de la asignatura lenguaje de marcas, en la que estamos creando una web responsive desde cero.
 
